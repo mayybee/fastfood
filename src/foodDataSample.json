@@ -1,0 +1,71 @@
+[
+  {
+    "ID": "mcdonalds-artisan-grilled-chicken-sandwich",
+    "objectID": "000001",
+    "name": "Artisan Grilled Chicken Sandwich",
+    "description": "",
+    "restaurant": "McDonald's",
+    "categories": [
+      "Sandwich",
+      "Burger"
+    ],
+    "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Artisan-Grilled-Chicken-Sandwich.jpg?$Product_Desktop$",
+    "url": "https://www.mcdonalds.com/us/en-us/product/artisan-grilled-chicken-sandwich.html",
+    "calories": 430,
+    "fat": 15,
+    "carbs": 40,
+    "protein": 34,
+    "total_sugars": 9,
+    "allergens": ["milk", "wheat", "egg"],
+    "vegetarian": false,
+    "keto": false,
+    "popularity": null,
+    "rating": null
+  }, 
+  {
+    "ID": "mcdonalds-bacon-ranch-salad-with-buttermilk-crispy-chicken",
+    "objectID": "000002",
+    "name": "Bacon Ranch Salad with Buttermilk Crispy Chicken",
+    "description": "",
+    "restaurant": "McDonald's",
+    "categories": [
+      "Salad",
+      "Salad with Protein"
+    ],
+    "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Artisan-Grilled-Chicken-Sandwich.jpg?$Product_Desktop$",
+    "url": "https://www.mcdonalds.com/us/en-us/product/premium-bacon-ranch-salad-with-buttermilk-crispy-chicken.html",
+    "calories": 610,
+    "fat": 39,
+    "carbs": 34,
+    "protein": 33,
+    "total_sugars": 6,
+    "allergens": ["milk", "wheat", "egg"],
+    "vegetarian": false,
+    "keto": false,
+    "popularity": null,
+    "rating": null
+  }, 
+  {
+    "ID": "wendys-grilled-chicken-sandwich",
+    "objectID": "000003",
+    "name": "Grilled Chicken Sandwich",
+    "description": "",
+    "restaurant": "Wendy's",
+    "categories": [
+      "Sandwich",
+      "Burger"
+    ],
+    "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Artisan-Grilled-Chicken-Sandwich.jpg?$Product_Desktop$",
+    "url": "https://menu.wendys.com/en_US/product/grilled-chicken-sandwich/",
+    "calories": 370,
+    "fat": 10,
+    "carbs": 36,
+    "protein": 34,
+    "total_sugars": 8,
+    "allergens": ["soy", "wheat", "egg"],
+    "vegetarian": false,
+    "keto": false,
+    "popularity": null,
+    "rating": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Chicken Sandwich",
+      "description": "",
+      "image": "chickensandwich.jpg"
+    },
+    {
+        "name": "Salad",
+        "description": "",
+        "image": "salad.jpg"
+    },
+    {
+        "name": "Beef Burger",
+        "description": "",
+        "image": "beefsandwich.jpg"
+    }
+]

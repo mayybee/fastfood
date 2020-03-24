@@ -1,0 +1,14 @@
+.root {
+  width: 100%; 
+  overflow: hidden; 
+  margin: 0 auto;
+}
+.ais-SearchBox { 
+  margin: 0; 
+}
+.ais-Pagination { 
+  margin-top: 1em 
+}
+.ais-Hits-item { margin-bottom: 1em; width: calc(50% - 1rem) }
+
+
