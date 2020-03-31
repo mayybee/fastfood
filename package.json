@@ -9,19 +9,22 @@
     "eject": "react-scripts eject",
     "lint": "eslint .",
     "lint:fix": "npm run lint -- --fix",
-    "build:css": "postcss src/assets/tailwind.css -o src/assets/main.css", 
+    "build:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
     "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
   },
   "dependencies": {
     "algoliasearch": "3.35.1",
+    "alpine": "^0.2.1",
     "autoprefixer": "^9.7.4",
     "bootstrap": "^4.4.1",
+    "instantsearch.css": "^7.4.2",
     "react": "16.12.0",
     "react-bootstrap": "^1.0.0-beta.17",
     "react-dom": "16.12.0",
     "react-instantsearch-dom": "6.3.0",
     "react-scripts": "2.1.1",
     "react-virtualized": "^9.21.2",
+    "rheostat": "^4.1.1",
     "tailwindcss": "^1.2.0"
   },
   "devDependencies": {
@@ -32,7 +35,8 @@
     "eslint-plugin-prettier": "3.1.2",
     "eslint-plugin-react": "7.17.0",
     "prettier": "1.19.1",
-    "prop-types": "15.7.2"
+    "prop-types": "15.7.2",
+    "webpack": "^4.42.1"
   },
   "browserslist": [
     ">0.2%",
@@ -40,6 +44,4 @@
     "not ie <= 11",
     "not op_mini all"
   ]
-  
-  
 }

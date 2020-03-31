@@ -1,0 +1,86 @@
+[   
+    {
+        "name": "McDonald's",
+        "description":"",
+        "image": "McDonald's.svg",
+        "locations": 57855,
+        "popularity": 5
+    },
+    {
+        "name": "Subway",
+        "description":"",
+        "image": "Subway.svg",
+        "locations": 36431,
+        "popularity": 5
+    },
+    {
+        "name": "Starbucks",
+        "description":"",
+        "image": "Starbucks.svg",
+        "locations": 30000,
+        "popularity": 5
+    },
+    {
+        "name": "KFC",
+        "description":"",
+        "image": "KFC.svg",
+        "locations": 24104,
+        "popularity": 5
+    },
+    {
+        "name": "Burger King",
+        "description":"",
+        "image": "BurgerKing.svg",
+        "locations": 16859,
+        "popularity": 5
+    },
+    {
+        "name": "Pizza Hut",
+        "description":"",
+        "image": "PizzaHut.svg",
+        "locations": 16796,
+        "popularity": 5
+    },
+    {
+        "name": "Domino's",
+        "description":"",
+        "image": "Domino's.svg",
+        "locations": 15000,
+        "popularity": 5
+    },
+    {
+        "name": "Dunkin' Donuts",
+        "description":"",
+        "image": "Dunkin'Donuts.svg",
+        "locations": 11300,
+        "popularity": 5
+    },
+    {
+        "name": "Baskin-Robbins",
+        "description":"",
+        "image": "Baskin-Robbins.svg",
+        "locations": 7500,
+        "popularity": 5
+    },
+    {
+        "name": "Taco Bell",
+        "description":"",
+        "image": "TacoBell.svg",
+        "locations": 7000,
+        "popularity": 5
+    },
+    {
+        "name": "Wendy's",
+        "description":"",
+        "image": "Wendy's.svg",
+        "locations": 6490,
+        "popularity": 5
+    },
+    {
+        "name": "Hardee's",
+        "description":"",
+        "image": "Hardee's.svg",
+        "locations":5812,
+        "popularity": 5
+    }
+]
