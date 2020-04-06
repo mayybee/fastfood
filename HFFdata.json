@@ -1,0 +1,106 @@
+[
+  {
+    "ID": "mcdonalds-artisan-grilled-chicken-sandwich",
+    "objectID": "000001",
+    "name": "Artisan Grilled Chicken Sandwich",
+    "restaurant": "McDonald's",
+    "description": "Grilled chicken breast sandwich made with all white meat chicken fillet that has no artificial preservatives, flavors or colors and perfectly marinated for juicy flavor. Layered with crisp leaf lettuce and tasty sliced roma tomato, and topped with mayo, all on our delectable artisan sandwich roll, making it the perfect grilled chicken sandwich.",
+    "ingredients": "Boneless Skinless Chicken Breast with Rib Meat, Water, Salt, Sugar, Garlic Powder, Lemon Juice Concentrate, Honey, Onion Powder, Natural Flavor, Dried Vinegar, Rice Starch. Grilled with Clarified Butter (Pasteurized Milk [Butterfat]). Contains: MILK.",
+    "categories": [
+      null
+    ],
+    "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Artisan-Grilled-Chicken-Sandwich.jpg?$Product_Desktop$",
+    "source": "https://www.mcdonalds.com/us/en-us/product/artisan-grilled-chicken-sandwich.html",
+    "nutrition_facts": {
+      "calories": 430,
+      "calories_from_fat": 390,
+      "total_fat": 15,
+      "total_fat_DV": 11,
+      "saturated_fat": 3,
+      "saturated_fat_DV": 15,
+      "trans_fat": 0,
+      "cholesterol": 95,
+      "cholesterol_DV": 32,
+      "sodium": 1040,
+      "sodium_DV": 45,
+      "total_carbs": 40,
+      "total_carbs_DV": 14,
+      "fiber": 2,
+      "fiber_DV": 6,
+      "sugars": 9,
+      "protein": 34,
+      "protein_DV": 67,
+      "vitamin_A": 4,
+      "vitamin_C": 20,
+      "calcium": 20,
+      "iron": 15
+    },
+    "allergens": {
+      "gluten": true,
+      "milk": true,
+      "egg": true,
+      "fish": false,
+      "shellfish": false,
+      "soy": false,
+      "peanuts": false,
+      "tree_nuts": false
+    },
+    "scores": {
+      "HFF": null,
+      "audience": null,
+      "critic": null
+    }
+  }, 
+  {
+    "ID": "mcdonalds-4-piece-chicken-nuggets",
+    "objectID": "000002",
+    "name": "4 Piece Chicken Nuggets",
+    "restaurant": "McDonald's",
+    "description": "Our tender, juicy Chicken McNuggets are made with 100% white meat chicken and no artificial colors, flavors or preservatives.",
+    "ingredients": "Boneless Skinless Chicken Breast with Rib Meat, Water, Salt, Sugar, Garlic Powder, Lemon Juice Concentrate, Honey, Onion Powder, Natural Flavor, Dried Vinegar, Rice Starch. Grilled with Clarified Butter (Pasteurized Milk [Butterfat]). Contains: MILK.",
+    "categories": [
+      null
+    ],
+    "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Artisan-Grilled-Chicken-Sandwich.jpg?$Product_Desktop$",
+    "source": "https://www.mcdonalds.com/us/en-us/product/chicken-mcnuggets-4-piece.html",
+    "nutrition_facts": {
+      "calories": 220,
+      "calories_from_fat": 150,
+      "total_fat": 10,
+      "total_fat_DV": 5,
+      "saturated_fat": 2,
+      "saturated_fat_DV": 15,
+      "trans_fat": 0,
+      "cholesterol": 95,
+      "cholesterol_DV": 32,
+      "sodium": 1040,
+      "sodium_DV": 45,
+      "total_carbs": 40,
+      "total_carbs_DV": 14,
+      "fiber": 2,
+      "fiber_DV": 6,
+      "sugars": 9,
+      "protein": 34,
+      "protein_DV": 67,
+      "vitamin_A": 4,
+      "vitamin_C": 20,
+      "calcium": 20,
+      "iron": 15,
+    },
+    "allergens": {
+      "gluten": true,
+      "milk": true,
+      "egg": true,
+      "fish": false,
+      "shellfish": false,
+      "soy": false,
+      "peanuts": false,
+      "tree_nuts": false
+    },
+    "scores": {
+      "HFF": null,
+      "audience": null,
+      "critic": null
+    }
+  }
+]

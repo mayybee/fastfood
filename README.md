@@ -1,21 +1,26 @@
-# ais-ecommerce-demo-app
+# FastFood v1
 
-_This project was generated with [create-instantsearch-app](https://github.com/algolia/create-instantsearch-app) by [Algolia](https://algolia.com)._
+Web app dedicated to healthy eating...fast food style.
+
+Thanks
+[create-instantsearch-app](https://github.com/algolia/create-instantsearch-app) 
+[Algolia](https://algolia.com)
+[TailwindCSS](https://tailwindcss.com)
 
 ## Get started
 
-To run this project locally, install the dependencies and run the local server:
+Run locally:
 
 ```sh
 npm install
-npm start
+npm run start
 ```
 
-Alternatively, you may use [Yarn](https://http://yarnpkg.com/):
+Using [Yarn](https://http://yarnpkg.com/):
 
 ```sh
 yarn
 yarn start
 ```
 
-Open http://localhost:3000 to see your app.
+Open http://localhost:3000 to see the app.

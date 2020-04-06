@@ -24,7 +24,9 @@
     "react-instantsearch-dom": "6.3.0",
     "react-scripts": "2.1.1",
     "react-virtualized": "^9.21.2",
+    "reactjs-popup": "^1.5.0",
     "rheostat": "^4.1.1",
+    "styled-components": "^5.0.1",
     "tailwindcss": "^1.2.0"
   },
   "devDependencies": {
