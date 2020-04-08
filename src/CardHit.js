@@ -28,12 +28,12 @@ function CardHit(props) {
   fileName = fileName.replace(/\s/g, '');
   return (
     <Popup trigger={
-    <div className="bg-white hover:opacity-75 shadow-md rounded-lg thumb-meal cursor-pointer">
+    <div className="bg-white hover:opacity-75 shadow-md rounded-xl thumb-meal cursor-pointer overflow-hidden">
       <div className="">
         <div className="pt-full w-full text-center align-middle relative overflow-hidden bg-white ">
-          <img src={props.data.image} className="thumbnail vertical-center rounded-t-lg" alt="" />
+          <img src={props.data.image} className="thumbnail vertical-center" alt="" />
           <div class="overlay"> </div>
-          <img className="absolute m-3 top-0 left-0 h-8 w-8 z-20 logo-badge shadow-md bg-white rounded-full" src={images[fileName]} alt="{props.data.restaurant}" />
+          <img className="absolute m-3 top-0 left-0 h-8 w-8 z-20 logo-badge shadow-md bg-white rounded-tl-lg rounded-br-lg" src={images[fileName]} alt="{props.data.restaurant}" />
           <div className="absolute m-3 top-0 right-0 h-8 z-20 bg-blue-100 opacity-75 px-2 rounded-md calorie-badge"><span className="text-lg leading-8 text-blue-600">{props.data.calories} cal</span></div>
 
           {/* <div style="background-image: url({props.data.image}) center center no-repeat;" className="w-full h-full"></div> */}
@@ -42,6 +42,9 @@ function CardHit(props) {
       <div className="px-3 pt-3">
         <p className="text-md font-bold m-0">{props.data.name}</p>
         <p className="text-sm text-gray-500 m-0">{props.data.restaurant}</p>
+      </div>
+      {/* <div className="px-3 pt-3">
+        
         <div className="flex justify-between my-3">
           <div>
             <p className="text-lg ">{props.data.protein}g</p>
@@ -56,7 +59,7 @@ function CardHit(props) {
             <span className="text-gray-500 text-xs">Fat</span>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
     } modal
       closeOnDocumentClick
