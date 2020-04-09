@@ -6,8 +6,8 @@
   },
   "private": true,
   "scripts": {
-    "start": "node server/server.js",
-    "devstart": "react-scripts start",
+    "altstart": "node server/server.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
