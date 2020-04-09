@@ -9,8 +9,7 @@ import {
 import 'instantsearch.css/themes/reset.css';
 import './App.css';
 import Nav from './Nav';
-import NutritionFacts from './NutritionFacts';
-
+import NutritionFacts from './NutritionFacts'; 
 import { RestaurantList, CuisineList } from './Lists';
 import Settings from './Settings';
 import CustomInfiniteHits from './CustomInfiniteHits';
