@@ -4,17 +4,18 @@ import {
   connectInfiniteHits
 } from 'react-instantsearch-dom';
 import PropTypes from 'prop-types';
-import CardHit from './CardHit'
+import Card from './Card'
+import CardTest from './CardTest'
 
 const InfiniteHits = ({ hits }) => (
-  <div className="grid xl:grid-cols-5 md:grid-cols-4 grid-cols-3 gap-4 mt-4 mr-4">
+  <div className="grid xl:grid-cols-4 md:grid-cols-3 grid-cols-3 gap-6 mt-8 mr-4">
     {hits.map((hit) => (
-      <CardHit data={hit} />
+      <Card data={hit} />
     ))}
   </div>
 );
 
-const CustomInfiniteHits = connectInfiniteHits(InfiniteHits);
+const Hits = connectInfiniteHits(InfiniteHits);
 
 // RowHit is being saved for table view, to be implemented
 
@@ -62,8 +63,8 @@ const CustomInfiniteHits = connectInfiniteHits(InfiniteHits);
 // const CustomHits = connectHits(Hits);
 
 
-CardHit.propTypes = {
+Card.propTypes = {
   hit: PropTypes.object.isRequired,
 };
 
-export default CustomInfiniteHits;
+export default Hits;

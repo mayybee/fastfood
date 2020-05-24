@@ -82,5 +82,40 @@
         "image": "Hardee's.svg",
         "locations":5812,
         "popularity": 5
+    },
+    {
+        "name": "Popeyes",
+        "description":"",
+        "image": "Popeyes.svg",
+        "locations":3102,
+        "popularity": 5
+    },
+    {
+        "name": "In-n-Out",
+        "description":"",
+        "image": "In-n-Out.svg",
+        "locations":3102,
+        "popularity": 5
+    },
+    {
+        "name": "Jack in the Box",
+        "description":"",
+        "image": "JackintheBox.svg",
+        "locations":3102,
+        "popularity": 5
+    },
+    {
+        "name": "Carl's Jr.",
+        "description":"",
+        "image": "Carl'sJr..svg",
+        "locations":3102,
+        "popularity": 5
+    },
+    {
+        "name": "Arby's",
+        "description":"",
+        "image": "Arby's.svg",
+        "locations":3102,
+        "popularity": 5
     }
 ]

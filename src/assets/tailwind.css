@@ -5,9 +5,8 @@
 /* Settings
    ========================================================================== */
 input:checked ~ .checkmark {
-    @apply bg-green-400;
+    @apply bg-blue-400;
     @apply border;
-    @apply border-1;
 } 
 
 .checkmark:after {

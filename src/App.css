@@ -1,6 +1,9 @@
+body {
+  background-color: #f7fafc;
+}
 
 #root {
-  font-family: 'Lato';
+  font-family: 'Avenir';
 }
 .ais-SearchBox { 
   margin: 0; 
@@ -20,6 +23,10 @@
 
 .pt-full {
   padding-top: 100%;
+}
+
+.pt-75 {
+  padding-top: 75%;
 }
 
 .rounded-xl {
@@ -73,6 +80,8 @@
 p {
   margin: 0;
 }
+
+/* ============== Styles for Nutrition Facts ============== */
 
 .performance-facts {
   float: left;
@@ -153,4 +162,22 @@ td:last-child {
 }
 .thin-end {
   border-bottom: 1px solid black;
+}
+
+/* General */
+
+.shadow-custom-md {
+  box-shadow: 0 1px 20px 0px rgba(0, 0, 0, 0.08);
+}
+
+.rounded-xl {
+  border-radius: 1rem;
+}
+
+.rounded-2xl {
+  border-radius: 1.5rem;
+}
+
+.rounded-3xl {
+  border-radius: 2rem;
 }

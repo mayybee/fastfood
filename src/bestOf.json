@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Best Chicken",
+      "description": "",
+      "image": "chickensandwich.jpg",
+      "emoji": "🐔"
+    },
+    {
+        "name": "Best Salad",
+        "description": "",
+        "image": "salad.jpg",
+        "emoji": "🥗"
+    },
+    {
+        "name": "Best Beef Burger",
+        "description": "",
+        "image": "beefsandwich.jpg",
+        "emoji": "🐄"
+    },
+    {
+        "name": "Highest Protein",
+        "description": "",
+        "image": "",
+        "emoji": "🍖"
+    },
+    {
+        "name": " Healthiest Desserts",
+        "description": "",
+        "image": "",
+        "emoji": "🍰"
+    }
+
+]
